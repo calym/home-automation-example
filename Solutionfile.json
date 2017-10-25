@@ -8,7 +8,7 @@
     "util": "modules/util.lua",
     "debug": "modules/debug.lua",
     "listen": "modules/listen.lua",
-    "testThing: ""
+    "testThing": ""
   },
   "event_handler": {
     "device": {
